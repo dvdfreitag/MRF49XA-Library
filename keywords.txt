@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For TrueRandom
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MRF49XA	KEYWORD1
+Hamming	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Initialize	KEYWORD2
+IsIdle	KEYWORD2
+IsAlive	KEYWORD2
+ReadStatus	KEYWORD2
+SetRegister	KEYWORD2
+TransmitPacket	KEYWORD2
+ReceivePacket	KEYWORD2
+SetBaudrate	KEYWORD2
+SetFrequency	KEYWORD2
+TransmitZero	KEYWORD2
+TransmitOne	KEYWORD2
+TransmitAlternating	KEYWORD2
+PacketReflect	KEYWORD2
+PacketGenerator	KEYWORD2
+Reset	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
